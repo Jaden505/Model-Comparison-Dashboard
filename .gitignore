@@ -26,4 +26,7 @@ yarn-error.log*
 .idea
 .vscode
 
-.json
+*.json
+robots.txt
+node_modules
+```
